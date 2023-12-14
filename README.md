@@ -6,4 +6,4 @@ Cryptopals are set of challenges and excersice created to demonstrate attacks on
 
 ## Index
 
-1. [Set 1](https://cryptopals.com/sets/1) - [Set 1 Writeup](/set1.ipynb)
+1. [Set 1](https://cryptopals.com/sets/1) - [Set 1 Writeup](set1/set1.ipynb)
